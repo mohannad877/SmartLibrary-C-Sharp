@@ -91,5 +91,6 @@ It features a modern, responsive user interface with **Dark/Light** themes and u
 
 ---
 <p align="center">
-  <sub>Developed with ❤️ using C#</sub>
+  <sub>Developed with Mohannad Nabil Ahmed Mohammed Abdullah..<br>
+    using C#</sub>
 </p>
